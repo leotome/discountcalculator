@@ -1,11 +1,17 @@
 # Calculadora de Descontos 1.3
 
+<p><b>O que é?</b></p>
 Desenvolvi essa calculadora em Javascript sobre um documento HTML para ajudar na tarefa repetitiva de cálculo de descontos em bilhetes.</br>
 
 O objectivo era justamente desenvolver uma ferramenta simples, sem necessidade de instalação de novas aplicações/interpretadores, e que funcionasse como um único ficheiro. </br>
 O "bilhetes.html" tem no conteúdo todos os scripts Javascript e todo o documento HTML. A vantagem é justamente a portabilidade e compatibilidade. Já agora, a desvantagem é a dificuldade em manter o código apresentável para um outro desenvolvedor (535 linhas!!).</br>
 
 O desenvolvimento, em 95% do tempo, foi feito através do uso da aplicação "notepad.exe", padrão no Microsoft Windows.
+
+<p><b>Como rodar?</b></p>
+
+Descarregue o ficheiro "bilhetes.html" para seu computador, e rode em um browser. </br>
+
 
 <p><b>Changelog:</b></p>
 <font size="1" face="Verdana">
